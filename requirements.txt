@@ -1,0 +1,26 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------
+
+tensorflow
+tensorflow-gpu >= 1.13
+timm == 0.4.12
+opencv-python==4.4.0.46
+torchvision==0.9.0 
+cudatoolkit==10.2 
+termcolor == 1.1.0
+yacs == 0.1.8
+numpy
+tqdm
+unrar
+matplotlib
+scikit-learn
+psutil
+cmake
+pyprind
+absl-py
+atari-py
+grpcio
+gin-config
+gym
+blosc
